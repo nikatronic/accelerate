@@ -2,8 +2,8 @@
  Theme Name:   Accelerate Theme Child
  Theme URI:    http://example.com/accelerate-theme-child/
  Description:  Accelerate Child Theme - Accelerate
- Author:       Ann Cascarano
- Author URI:   http://example.com
+ Author:       Anika Giftge
+ Author URI:   http://nikatronic.de
  Template:     accelerate-theme
  Version:      1.0.0
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
@@ -13,15 +13,15 @@
 @import url("../accelerate-theme/style.css");
 
 .home-page {
-    background: url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
+    background: url("img/download2.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
 }
 
 #masthead {
-    background: none repeat scroll 0 0 #45ac9d;
+    background: none repeat scroll 0 0 #29282E;
 }
 
 .button {
-    background: none repeat scroll 0 0 #45ac9d;
+    background: none repeat scroll 0 0 #29282E;
 }
 
 /* Blog post on Front page */
