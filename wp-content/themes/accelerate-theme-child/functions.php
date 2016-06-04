@@ -19,7 +19,7 @@
  *
  * For more information on hooks, actions, and filters,
  * @link http://codex.wordpress.org/Plugin_API
- *
+ * <3
  * @package WordPress
  * @subpackage Accelerate Marketing
  * @since Accelerate Marketing 1.0

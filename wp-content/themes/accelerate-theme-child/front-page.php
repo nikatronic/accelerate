@@ -6,7 +6,7 @@
  * Please note that this is the WordPress construct of pages
  * and that other 'pages' on your WordPress site will use a
  * different template.
- *
+ * <3
  * @package WordPress
  * @subpackage Accelerate Marketing
  * @since Accelerate Marketing 1.0
