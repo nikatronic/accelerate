@@ -5,7 +5,7 @@
  * This is the template that displays the archive of case studies.
  * Please note that this is the WordPress construct of pages
  * and that other 'pages' on your WordPress site will use a
- * different template.
+ * different template. Adding content for a change.
  *
  * @package WordPress
  * @subpackage Accelerate Marketing
